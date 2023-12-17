@@ -5,6 +5,11 @@
     <img src="https://skillicons.dev/icons?i=html,js,css,vscode" />
 </a>
 
+
+### Veja como ficou
+
+[Site](https://primeirodesafiocodelancia.netlify.app/)
+
 #### [Faça também - Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=257087-654&mode=design)
 
 
